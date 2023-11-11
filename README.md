@@ -11,4 +11,4 @@ The whole web scraping process was performed using Selenium library [*BMKG_Scrap
 
 Output file in form dataset as .csv and .json file for [*Weather Info*](https://github.com/Xedonedron/web-scraping/tree/main/Weather%20Info), and [*Food Prices Info*](https://github.com/Xedonedron/web-scraping/tree/main/Food%20Prices%20Info).
 
-The new created dataset was used to further analysis.
+The new created dataset can used to further analysis.
