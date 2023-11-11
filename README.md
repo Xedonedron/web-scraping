@@ -9,6 +9,6 @@ The whole web scraping process was performed using Selenium library [*BMKG_Scrap
 
 ## Output
 
-Output file in form dataset as .xml (using API), and .csv file [*isi nanti*]().
+Output file in form dataset as .csv file [*isi nanti*]().
 
 The new created dataset was used to further analysis.
